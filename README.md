@@ -1,10 +1,10 @@
 ### 👋👋Hi there Welcome to my Profile Page👋👋
 ![224186231-b3047c77-bba9-492f-9956-c7f75e7b8ff0](https://user-images.githubusercontent.com/124733099/224356327-b0947ad2-6948-4a9b-a09a-79f926e5b463.gif)
 
-🔭 I’m currently working on different DevOps tools and CI/CD processes
+
 ![image](https://user-images.githubusercontent.com/124733099/224356970-09b528fe-8f5a-40fe-b7f4-da02db8a44b3.png)
 
-
+🔭 I’m currently working on different DevOps tools and CI/CD processes
 ![image](https://user-images.githubusercontent.com/124733099/224357816-02b785db-485e-421d-8773-5c44104a89fe.png)
 
 
